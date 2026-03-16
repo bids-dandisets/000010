@@ -1,0 +1,23 @@
+{
+    "Name": "A motor cortex circuit for motor planning and movement",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "This dataset contains electrophysiological and calcium imaging data from the mouse motor cortex during a delayed response task. The study identifies the anterior lateral motor cortex (ALM) as a key node for motor planning. It includes extracellular recordings from ALM and parts of the thalamus, alongside population calcium imaging, to characterize neuronal activity during the planning and execution of voluntary movements. The data explores how motor plans are maintained in a motor cortex circuit and the role of thalamocortical loops in this process.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Li, Nuo",
+        "Chen, Tsai-Wen",
+        "Guo, Zengcai V.",
+        "Gerfen, Charles R.",
+        "Svoboda, Karel"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
